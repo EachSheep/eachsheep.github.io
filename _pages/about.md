@@ -27,14 +27,15 @@ redirect_from:
 - 🤔 I'm a fantast and I like to touch fish in my space time.
 
 # 🔥 News
-- 2024.07, A paper about LLM-based Agents submitted to arXiv, 2024, (https://arxiv.org/pdf/2407.00132), [ShortcutsBench: A Large-Scale Real-World Benchmark for API-Based Agents](https://eachsheep.space/ShortcutsBench).
+
+- 2024.07, A paper about LLM-based Agents submitted to arXiv, 2024, [ShortcutsBench: A Large-Scale Real-World Benchmark for API-Based Agents](https://eachsheep.space/ShortcutsBench).
 - 2023.07, A paper in collaboration with Alibaba has been accepted by International Conference on Web Service, 2023, [ADPal: Automatic Detection of Troubled Users in Online Service Systems via Page Access Logs](https://ieeexplore.ieee.org/document/10248242).
 - 2022.09, admitted as a PhD student in [School of Computer Science](https://cs.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/).
 - 2022.06, received his B.E degree from [School of Computer Science](https://jsj.nwpu.edu.cn/) in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 - 2018.09, admitted by [School of Computer Science](https://jsj.nwpu.edu.cn/) in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
 
-<!-- # 📝 Publications & Others -->
+# 📝 Publications & Others
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -49,18 +50,23 @@ redirect_from:
 </div>
 </div> -->
 
-<!-- - [Parallelizing DNN inference in mobile web browsers on heterogeneous hardware](https://dl.acm.org/doi/abs/10.1145/3498361.3538763), **XXX** -->
+- arXiv, 2024, [ShortcutsBench: A Large-Scale Real-World Benchmark for API-Based Agents](https://eachsheep.space/ShortcutsBench)
+- International Conference on Web Service, 2023, [ADPal: Automatic Detection of Troubled Users in Online Service Systems via Page Access Logs](https://ieeexplore.ieee.org/document/10248242)
+- [Parallelizing DNN inference in mobile web browsers on heterogeneous hardware](https://dl.acm.org/doi/abs/10.1145/3498361.3538763)
 
-<!-- # 🎖 Honors and Awards
-- **2021** WU Yajun Scholarship of Northwestern Polytechnical University.
-- **2020** National Scholarship of Northwestern Polytechnical University.
-- **2019~2021** First Class Scholarship of Northwestern Polytechnical University. -->
+# 🎖 Honors and Awards
+- **2019 ~ 2021**
+  -  WU Yajun Scholarship of Northwestern Polytechnical University
+  -  National Scholarship of Northwestern Polytechnical University
+  -  First Class Scholarship of Northwestern Polytechnical University
+- **2022 ~ 2027**
+  - TODO
 
 # 📖 Educations
 
 - 🎓 Haiyang received his B.Sc. degree from [School of Computer Science](https://jsj.nwpu.edu.cn/) in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in June 2022.
 
-<!-- # 💬 Invited Talks -->
+# 💬 Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
