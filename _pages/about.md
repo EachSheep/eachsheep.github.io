@@ -22,18 +22,19 @@ redirect_from:
 
 
 
-- 🌱 I had fun researching Machine Learning, ML System, Distributed System, etc.
+- 🌱 I had fun researching LLM-based Agent, Machine Learning, ML System, etc.
 <!-- I have published 0 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 - 🤔 I'm a fantast and I like to touch fish in my space time.
 
 # 🔥 News
-
+- 2024.07, A paper about LLM-based Agents submitted to arXiv, 2024, (https://arxiv.org/pdf/2407.00132), [ShortcutsBench: A Large-Scale Real-World Benchmark for API-Based Agents](https://eachsheep.space/ShortcutsBench).
+- 2023.07, A paper in collaboration with Alibaba has been accepted by International Conference on Web Service, 2023, [ADPal: Automatic Detection of Troubled Users in Online Service Systems via Page Access Logs](https://ieeexplore.ieee.org/document/10248242).
 - 2022.09, admitted as a PhD student in [School of Computer Science](https://cs.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/).
 - 2022.06, received his B.E degree from [School of Computer Science](https://jsj.nwpu.edu.cn/) in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 - 2018.09, admitted by [School of Computer Science](https://jsj.nwpu.edu.cn/) in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
 
-# 📝 Publications & Others
+<!-- # 📝 Publications & Others -->
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -50,21 +51,22 @@ redirect_from:
 
 <!-- - [Parallelizing DNN inference in mobile web browsers on heterogeneous hardware](https://dl.acm.org/doi/abs/10.1145/3498361.3538763), **XXX** -->
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - **2021** WU Yajun Scholarship of Northwestern Polytechnical University.
 - **2020** National Scholarship of Northwestern Polytechnical University.
-- **2019~2021** First Class Scholarship of Northwestern Polytechnical University.
+- **2019~2021** First Class Scholarship of Northwestern Polytechnical University. -->
 
 # 📖 Educations
 
 - 🎓 Haiyang received his B.Sc. degree from [School of Computer Science](https://jsj.nwpu.edu.cn/) in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in June 2022.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+- *2022.09 - 2022.10*, [Alibaba Innovative Research](https://damo.alibaba.com/collaborations?language=zh), China.
 
 # 📫 Correspondence
 - Email: [hyshen@stu.pku.edu.cn](mailto:hyshen@stu.pku.edu.c)
