@@ -20,15 +20,14 @@ redirect_from:
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/eachsheep)
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://eachsheep.github.io/)
 
+# 😊 About Me
+
 - 🌱 My research interests lie in **agents based on large models (LLMs/MLMs)**. Specifically, I am interested in:
   - 🔗 **The integration of LMs with APIs (tools).**
   - 🛠 **The software engineering challenges associated with the integration.**
   - 📱 **The applications of LMs on edge devices.**
 - 📚 My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focuses on system software, including *machine learning systems*, *serverless computing*, *web systems*, *software engineering*, and etc. In my first year of Ph.D., I studied anomaly detection, federated learning, inference optimization for LLMs in the cloud, etc.
 - 🔍 Throughout my studies from system software to deep learning, I have gained knowledge in various areas including *methods and applications of natural language processing*, *retrieval systems*, *data analysis and mining*, *acceleration*, and *application of machine learning systems*.
-
-<!-- - 🤔 I'm a fantast and I like to touch fish in my space time. -->
-<!-- I have published 0 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 
