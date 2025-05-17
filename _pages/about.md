@@ -34,6 +34,10 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focu
 
 # 📝 Publications
 
+<!-- * **Z. Shao\***, **H. Shen\***, et al. "", arXiv **(arXiv'25)**. -->
+* **H. Shen\***, Hang. Yan\*, et al. "Synthetic Data for Robust and Faithful RAG Component Optimization", arXiv **(arXiv'25)**.
+* T. Guo*, **H. Shen\***, et al. "MASS: Multi-Agent Simulation Scaling for Portfolio Construction", arXiv, **(arXiv'25)**.
+  - [Paper Link](https://arxiv.org/abs/2505.10278).
 * Z. Chen, Y. Ma, **H.Shen** et al. "WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers", the Web Conference **(WWW'25)**.
   - [Paper Link](https://openreview.net/forum?id=Qu2itILaoZ#discussion).
 * **H. Shen**, Y. Li et al. "Shortcutsbench: A large-scale real-world benchmark for API-based agents" the International Conference on Learning Representations **(ICLR'25)**.
@@ -53,7 +57,10 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focu
 
 # 📖 Experience
 
-- **Outstanding Research Award**, [Peking University](https://www.pku.edu.cn/) (2022 ~ now)
+- **Intern**, with Alibab Tongyi Lab (2025.05 ~ now)
+
+- **Intern**, with [Miracleplus](https://www.miracleplus.com/) \& with Hang Yan in [Shanghai AI Lab](https://www.shlab.org.cn/). (2024.11 - 2025.05)
+- **Outstanding Research Award**, [Peking University](https://www.pku.edu.cn/) (2022-2023)
 - **Ph.D. Candidate in Computer Science and Technology**, [School of Computer Science](http://cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/) (2022.09 - now)
 
   - Ph.D. comprehensive exam: *LLM, MLM, and LLM-based agent*
@@ -62,8 +69,6 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focu
   - Research topic: *Anomaly detection using page access logs*
 - **National Scholarship**, **First Class Scholarship**, and **WU Yajun Scholarship**, [Northwestern Polytechnical University](http://www.nwpu.edu.cn/) (2019 ~ 2021)
 - **B.Sc. in Computer Science and Technology**, [School of Computer Science](http://jsj.nwpu.edu.cn/) at [Northwestern Polytechnical University](http://www.nwpu.edu.cn/) (2018.09 - 2022.07)
-
-  - Thesis: *An Empirical Analysis of the Open Virtual Interaction Platform: Roblox*
 
 # 📫 Correspondence
 
