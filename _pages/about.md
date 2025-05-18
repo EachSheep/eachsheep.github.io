@@ -35,7 +35,7 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focu
 # 📝 Publications
 
 <!-- * **Z. Shao\***, **H. Shen\***, et al. "", arXiv **(arXiv'25)**. -->
-* **H. Shen\***, Hang. Yan\*, et al. "Synthetic Data for Robust and Faithful RAG Component Optimization", arXiv **(arXiv'25)**.
+* **H. Shen\***, H. Yan\*, et al. "Synthetic Data for Robust and Faithful RAG Component Optimization", arXiv **(arXiv'25)**.
 * T. Guo*, **H. Shen\***, et al. "MASS: Multi-Agent Simulation Scaling for Portfolio Construction", arXiv, **(arXiv'25)**.
   - [Paper Link](https://arxiv.org/abs/2505.10278).
 * Q. Yang, W. B, **H.Shen** et al. "PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels", arXiv **(arXiv'25)**.
