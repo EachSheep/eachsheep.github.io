@@ -38,6 +38,8 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focu
 * **H. Shen\***, Hang. Yan\*, et al. "Synthetic Data for Robust and Faithful RAG Component Optimization", arXiv **(arXiv'25)**.
 * T. Guo*, **H. Shen\***, et al. "MASS: Multi-Agent Simulation Scaling for Portfolio Construction", arXiv, **(arXiv'25)**.
   - [Paper Link](https://arxiv.org/abs/2505.10278).
+* Q. Yang, W. B, **H.Shen** et al. "PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels", arXiv **(arXiv'25)**.
+  - [Paper Link](https://arxiv.org/abs/2504.16419).
 * Z. Chen, Y. Ma, **H.Shen** et al. "WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers", the Web Conference **(WWW'25)**.
   - [Paper Link](https://openreview.net/forum?id=Qu2itILaoZ#discussion).
 * **H. Shen**, Y. Li et al. "Shortcutsbench: A large-scale real-world benchmark for API-based agents" the International Conference on Learning Representations **(ICLR'25)**.
@@ -50,9 +52,6 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focu
 
    - [Paper Link](https://doi.org/10.1109/ICWS60048.2023.00082)
    - [Project Link](https://github.com/eachsheep/abnormaldetection)
-* D. Tian, **H. Shen**, and Y. Ma, "Parallelizing DNN inference in mobile web browsers on heterogeneous hardware", the Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services, **(MobiSys '22 Poster)**.
-
-   - [Paper Link](https://doi.org/10.1145/3498361.3538763)
 
 
 # 📖 Experience
