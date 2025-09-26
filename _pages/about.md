@@ -35,29 +35,36 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focu
 # 📝 Publications
 
 <!-- * **Z. Shao\***, **H. Shen\***, et al. "", arXiv **(arXiv'25)**. -->
+* Z. Tao, ...,**H. Shen**, et al. "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization", arXiv **(arXiv'25)**.
+  - [https://arxiv.org/abs/2507.15061](https://arxiv.org/abs/2507.s15061)
+* Z. Shao\*, **H. Shen\***, et al. "Grounding AI Explanations in Experience: A Reflective Cognitive Architecture for Clinical Decision Support", arXiv **(arXiv'25)**.
+  - [https://arxiv.org/abs/2509.21266](https://arxiv.org/abs/2509.21266)
 * **H. Shen\***, H. Yan\*, et al. "RAGSynth: Synthetic Data for Robust and Faithful RAG Component Optimization", arXiv **(arXiv'25)**.
-  - [Paper Link](http://arxiv.org/abs/2505.10989)
+  - [http://arxiv.org/abs/2505.10989](http://arxiv.org/abs/2505.10989)
 * T. Guo*, **H. Shen\***, et al. "MASS: Multi-Agent Simulation Scaling for Portfolio Construction", arXiv, **(arXiv'25)**.
-  - [Paper Link](https://arxiv.org/abs/2505.10278).
+  - [https://arxiv.org/abs/2505.10278](https://arxiv.org/abs/2505.10278).
 * Q. Yang, W. B, **H.Shen** et al. "PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels", arXiv **(arXiv'25)**.
-  - [Paper Link](https://arxiv.org/abs/2504.16419).
+  - [https://arxiv.org/abs/2504.16419](https://arxiv.org/abs/2504.16419).
 * Z. Chen, Y. Ma, **H.Shen** et al. "WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers", the Web Conference **(WWW'25)**.
-  - [Paper Link](https://openreview.net/forum?id=Qu2itILaoZ#discussion).
+  - [https://openreview.net/forum?id=Qu2itILaoZ#discussion](https://openreview.net/forum?id=Qu2itILaoZ#discussion).
 * **H. Shen**, Y. Li et al. "Shortcutsbench: A large-scale real-world benchmark for API-based agents" the International Conference on Learning Representations **(ICLR'25)**.
-   - [Paper Link](https://openreview.net/forum?id=kKILfPkhSz)
-   - [arXiv Link](https://arxiv.org/abs/2407.00132)
+   - [https://openreview.net/forum?id=kKILfPkhSz](https://openreview.net/forum?id=kKILfPkhSz)
+   - [https://arxiv.org/abs/2407.00132](https://arxiv.org/abs/2407.00132)
    - [Project Link](https://github.com/eachsheep/shortcutsbench)
 * M. Liu, **H.Shen** et al. "WebAssembly for Container Runtime: Are We There Yet?" Transactions on Software Engineering Methodology **(TOSEM'24)**.
-   - [Paper Link](https://dl.acm.org/doi/10.1145/3712197)
+   - [https://dl.acm.org/doi/10.1145/3712197](https://dl.acm.org/doi/10.1145/3712197)
 * **H. Shen**, Y. Ma et al. "Adpal: Automatic detection of troubled users in online service systems via page access logs", IEEE International Conference on Web Services **(ICWS'23)**.
 
-   - [Paper Link](https://doi.org/10.1109/ICWS60048.2023.00082)
-   - [Project Link](https://github.com/eachsheep/abnormaldetection)
+   - [https://doi.org/10.1109/ICWS60048.2023.00082](https://doi.org/10.1109/ICWS60048.2023.00082)
+   - [https://github.com/eachsheep/abnormaldetection](https://github.com/eachsheep/abnormaldetection)
 
 
 # 📖 Experience
 
-- **Intern**, with Alibab Tongyi Lab (2025.05 ~ now)
+- **Intern**, with Alibab Tongyi DeepResearch Group (2025.06 ~ now)
+  - WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization.
+  - Tongyi DeepResearch [https://github.com/Alibaba-nlp/DeepResearch](https://github.com/Alibaba-nlp/DeepResearch), which has gained over 10k Star⭐ and was trending on GitHub.
+  - TBD.
 
 - **Intern**, with [Miracleplus](https://www.miracleplus.com/) \& with Hang Yan in [Shanghai AI Lab](https://www.shlab.org.cn/). (2024.11 - 2025.05)
 - **Outstanding Research Award**, [Peking University](https://www.pku.edu.cn/) (2022-2023)
