@@ -36,7 +36,7 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) primarily focu
 
 <!-- * **Z. Shao\***, **H. Shen\***, et al. "", arXiv **(arXiv'25)**. -->
 * Z. Tao, ...,**H. Shen**, et al. "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization", arXiv **(arXiv'25)**.
-  - [https://arxiv.org/abs/2507.15061](https://arxiv.org/abs/2507.s15061)
+  - [https://arxiv.org/abs/2507.15061](https://arxiv.org/abs/2507.15061)
 * Z. Shao\*, **H. Shen\***, et al. "Grounding AI Explanations in Experience: A Reflective Cognitive Architecture for Clinical Decision Support", arXiv **(arXiv'25)**.
   - [https://arxiv.org/abs/2509.21266](https://arxiv.org/abs/2509.21266)
 * **H. Shen\***, H. Yan\*, et al. "RAGSynth: Synthetic Data for Robust and Faithful RAG Component Optimization", arXiv **(arXiv'25)**.
