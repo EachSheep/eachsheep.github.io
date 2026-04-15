@@ -16,11 +16,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[![GitHub](https://img.shields.io/badge/GitHub-eachsheep-495867?logo=github&style=flat-square)](https://github.com/eachsheep)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=BI-Mb_EAAAAJ)
-[![Homepage](https://img.shields.io/badge/Homepage-eachsheep.space-88AC0B?style=flat-square)](https://eachsheep.space/)
-[![Email](https://img.shields.io/badge/Email-hyshen%40stu.pku.edu.cn-B6073F?style=flat-square)](mailto:hyshen@stu.pku.edu.cn)
-
 # About Me
 
 I am **SHEN Haiyang**, a **Ph.D. candidate** at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ). I have accumulated **340+ citations** with an **h-index of 7** on Google Scholar.

@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+
+# PORT=8081 LIVERELOAD_PORT=35730 ./run_server_macos.sh
 set -euo pipefail
 
 cd "$(dirname "$0")"
