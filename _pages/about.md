@@ -97,7 +97,7 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated 
 17. Zhiyang Chen, Dongqi Xu, **Haiyang Shen**, Chao Lou, Mengwei Xu, Sheng Wang, Xin Jin, **Yun Ma**. Accelerating Mobile Language Model via Speculative Decoding and NPU-Coordinated Execution. arXiv preprint arXiv:2510.15312. **2025**.
     - [arXiv](https://arxiv.org/abs/2510.15312)
 
-18. Zeyu Shao<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Mugeng Liu, Guangyu Fu, Yaoqi Guo, Yuxiang Wang, **Yun Ma**. Rethinking Explainable Disease Prediction: Synergizing Accuracy and Reliability via Reflective Cognitive Architecture. arXiv preprint arXiv:2509.21266. **2025**.
+18. Zijian Shao<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Mugeng Liu, Guangyu Fu, Yaoqi Guo, Yuxiang Wang, **Yun Ma**. Rethinking Explainable Disease Prediction: Synergizing Accuracy and Reliability via Reflective Cognitive Architecture. arXiv preprint arXiv:2509.21266. **2025**.
     - [arXiv](https://arxiv.org/abs/2509.21266)
     - [GitHub](https://github.com/ssssszj/RCA)
 
