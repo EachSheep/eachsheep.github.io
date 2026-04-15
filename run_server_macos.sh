@@ -3,7 +3,6 @@ set -euo pipefail
 
 cd "$(dirname "$0")"
 
-RUBY_VERSION="${RUBY_VERSION:-3.1.6}"
 BUNDLER_VERSION="${BUNDLER_VERSION:-2.2.19}"
 PORT="${PORT:-4000}"
 LIVERELOAD_PORT="${LIVERELOAD_PORT:-35729}"
@@ -13,21 +12,19 @@ if [[ "$(uname -s)" != "Darwin" ]]; then
   exit 1
 fi
 
-if ! command -v rbenv >/dev/null 2>&1; then
-  echo "rbenv was not found. Run ./setup_macos_env.sh first."
+if ! command -v brew >/dev/null 2>&1; then
+  echo "Homebrew was not found. Run ./setup_macos_env.sh first."
   exit 1
 fi
 
-export RBENV_ROOT="${RBENV_ROOT:-$HOME/.rbenv}"
-export PATH="$RBENV_ROOT/bin:$PATH"
-eval "$(rbenv init - bash)"
-
-if ! rbenv versions --bare | grep -qx "$RUBY_VERSION"; then
-  echo "Ruby ${RUBY_VERSION} is not installed. Run ./setup_macos_env.sh first."
+BREW_RUBY_PREFIX="$(brew --prefix ruby 2>/dev/null || true)"
+if [[ -z "$BREW_RUBY_PREFIX" || ! -x "${BREW_RUBY_PREFIX}/bin/ruby" ]]; then
+  echo "Homebrew Ruby was not found. Run ./setup_macos_env.sh first."
   exit 1
 fi
 
-rbenv local "$RUBY_VERSION"
+export PATH="${BREW_RUBY_PREFIX}/bin:$PATH"
+echo "Using Ruby: $(ruby -v)"
 
 if ! gem list -i bundler -v "$BUNDLER_VERSION" >/dev/null 2>&1; then
   gem install bundler -v "$BUNDLER_VERSION" --no-document

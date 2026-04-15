@@ -3,7 +3,6 @@ set -euo pipefail
 
 cd "$(dirname "$0")"
 
-RUBY_VERSION="${RUBY_VERSION:-3.1.6}"
 BUNDLER_VERSION="${BUNDLER_VERSION:-2.2.19}"
 
 if [[ "$(uname -s)" != "Darwin" ]]; then
@@ -25,16 +24,25 @@ MSG
   exit 1
 fi
 
-echo "Installing rbenv and Ruby build dependencies with Homebrew..."
-brew install rbenv ruby-build pkg-config
+echo "Installing Homebrew Ruby and build dependencies..."
+brew install ruby pkg-config
 
-export RBENV_ROOT="${RBENV_ROOT:-$HOME/.rbenv}"
-export PATH="$RBENV_ROOT/bin:$PATH"
-eval "$(rbenv init - bash)"
+BREW_RUBY_PREFIX="$(brew --prefix ruby)"
+export PATH="${BREW_RUBY_PREFIX}/bin:$PATH"
 
-echo "Installing Ruby ${RUBY_VERSION} with rbenv..."
-rbenv install -s "$RUBY_VERSION"
-rbenv local "$RUBY_VERSION"
+echo "Using Ruby: $(ruby -v)"
+if ! ruby -rsocket -e 'puts "socket ok"' >/dev/null; then
+  cat <<'MSG'
+Homebrew Ruby is installed, but Ruby cannot load the socket library.
+This usually means the local Command Line Tools installation is broken.
+Try:
+
+  xcode-select --install
+  brew reinstall ruby
+  ./setup_macos_env.sh
+MSG
+  exit 1
+fi
 
 echo "Installing Bundler ${BUNDLER_VERSION}..."
 gem install bundler -v "$BUNDLER_VERSION" --no-document
