@@ -23,21 +23,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "SHEN Haiyang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Peking University"
+  bio              : "Ph.D. candidate, Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BI-Mb_EAAAAJ"
   email            : "hyshen@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://eachsheep.space"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "eachsheep"
   google_plus      :
   keybase          :
   instagram        :
