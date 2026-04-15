@@ -47,13 +47,13 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated 
 
 <sup>*</sup> Co-first author or project leader. <sup>&#9993;</sup> Corresponding author.
 
-1. **Haiyang Shen**, Xuanzhong Chen, Wendong Xu, **Yun Ma**, Liang Chen, Kuan Li. EvoCodeBench: Evaluating Coding Agents in Multi-Turn Iterative Interactions. **2026**. **NeurIPS Submission**.
+1. **Haiyang Shen**. EvoCodeBench: Evaluating Coding Agents in Multi-Turn Iterative Interactions. **2026**. **NeurIPS Submission**.
 
-2. **Haiyang Shen**<sup>*</sup>, Taian Guo<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Mugeng Liu, Weichen Bi, Wenchun Jing, Sixiong Xie, Zhuofan Shi, Yudong Han, Chongyang Pan, Siqi Zhong, Jinsheng Huang, Ming Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **2026**. **NeurIPS Submission**.
+2. **Haiyang Shen**. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **2026**. **NeurIPS Submission**.
 
-3. **Haiyang Shen**<sup>*</sup><sup>&#9993;</sup>, Jiuzheng Wang<sup>*</sup><sup>&#9993;</sup>, Taian Guo, Mugeng Liu, Wenchun Jing, Chongyang Pan, Siqi Zhong, Zhiyang Chen, Weichen Bi, Yudong Han, Xiaoying Bai<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>. QuestBench: A Course-Curated Benchmark for Expert-Level Cross-Domain Deep Search in Language Models. **2026**. **NeurIPS Submission**.
+3. **Haiyang Shen**. QuestBench: A Course-Curated Benchmark for Expert-Level Cross-Domain Deep Search in Language Models. **2026**. **NeurIPS Submission**.
 
-4. **Haiyang Shen**<sup>*</sup>, Wendong Xu<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, **Yun Ma**<sup>&#9993;</sup>, Liang Chen<sup>&#9993;</sup>, Kuan Li<sup>&#9993;</sup>. Genesis: Coding Task Synthesis via Iterative Multi-Agent Coordination. **2026**. **NeurIPS Submission**.
+4. **Haiyang Shen**. Genesis: Coding Task Synthesis via Iterative Multi-Agent Coordination. **2026**. **NeurIPS Submission**.
 
 5. Siqi Zhong, Mugeng Liu, **Haiyang Shen**, Chongyang Pan, **Yun Ma**<sup>&#9993;</sup>. LaTune: Lightweight and Adaptive Configuration Tuning for LLM Inference on Edge Devices. Proceedings of the ACM Web Conference 2026, 5404--5414. **2026**. **Top Conference on Web**.
 
