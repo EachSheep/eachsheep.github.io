@@ -4,6 +4,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 BUNDLER_VERSION="${BUNDLER_VERSION:-2.2.19}"
+HOMEBREW_RUBY_FORMULA="${HOMEBREW_RUBY_FORMULA:-ruby@3.3}"
 
 if [[ "$(uname -s)" != "Darwin" ]]; then
   echo "This script is intended for macOS. Current system: $(uname -s)"
@@ -24,10 +25,26 @@ MSG
   exit 1
 fi
 
-echo "Installing Homebrew Ruby and build dependencies..."
-brew install ruby pkg-config
+echo "Installing ${HOMEBREW_RUBY_FORMULA} and build dependencies..."
+if ! brew info "$HOMEBREW_RUBY_FORMULA" >/dev/null 2>&1; then
+  cat <<MSG
+Homebrew formula ${HOMEBREW_RUBY_FORMULA} is not available.
+This site is not compatible with Homebrew's default Ruby 4.x.
 
-BREW_RUBY_PREFIX="$(brew --prefix ruby)"
+Try:
+
+  brew search ruby@
+
+Then run this script with an available Ruby 3.x formula, for example:
+
+  HOMEBREW_RUBY_FORMULA=ruby@3.4 ./setup_macos_env.sh
+MSG
+  exit 1
+fi
+
+brew install "$HOMEBREW_RUBY_FORMULA" pkg-config
+
+BREW_RUBY_PREFIX="$(brew --prefix "$HOMEBREW_RUBY_FORMULA")"
 export PATH="${BREW_RUBY_PREFIX}/bin:$PATH"
 
 echo "Using Ruby: $(ruby -v)"
@@ -48,6 +65,8 @@ echo "Installing Bundler ${BUNDLER_VERSION}..."
 gem install bundler -v "$BUNDLER_VERSION" --no-document
 
 echo "Installing project gems into vendor/bundle..."
+echo "Cleaning old local bundle cache to avoid mixing gems from another Ruby version..."
+rm -rf vendor/bundle
 bundle "_${BUNDLER_VERSION}_" config set path vendor/bundle
 bundle "_${BUNDLER_VERSION}_" install
 

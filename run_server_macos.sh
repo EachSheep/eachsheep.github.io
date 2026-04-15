@@ -4,6 +4,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 BUNDLER_VERSION="${BUNDLER_VERSION:-2.2.19}"
+HOMEBREW_RUBY_FORMULA="${HOMEBREW_RUBY_FORMULA:-ruby@3.3}"
 PORT="${PORT:-4000}"
 LIVERELOAD_PORT="${LIVERELOAD_PORT:-35729}"
 
@@ -17,9 +18,9 @@ if ! command -v brew >/dev/null 2>&1; then
   exit 1
 fi
 
-BREW_RUBY_PREFIX="$(brew --prefix ruby 2>/dev/null || true)"
+BREW_RUBY_PREFIX="$(brew --prefix "$HOMEBREW_RUBY_FORMULA" 2>/dev/null || true)"
 if [[ -z "$BREW_RUBY_PREFIX" || ! -x "${BREW_RUBY_PREFIX}/bin/ruby" ]]; then
-  echo "Homebrew Ruby was not found. Run ./setup_macos_env.sh first."
+  echo "Homebrew Ruby formula ${HOMEBREW_RUBY_FORMULA} was not found. Run ./setup_macos_env.sh first."
   exit 1
 fi
 
