@@ -35,7 +35,7 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated 
 # Experience
 
 - **2025.12 -- now** Intern, [UniPat AI](https://unipat.ai/). Research on code data synthesis.
-- **2025.06 -- 2025.11** Intern, [Tongyi DeepResearch Group](https://tongyi-agent.github.io/zh/about/), Alibaba. Research on data synthesis for DeepResearch.
+- **2025.06 -- 2025.11** Intern, [Tongyi DeepResearch Group](https://tongyi-agent.github.io/zh/about/), Alibaba. Research on data synthesis for DeepResearch, including WebShaper and WebLeaper. [DeepResearch GitHub](https://github.com/Alibaba-NLP/DeepResearch).
 - **2022 -- now** Outstanding Research Award, Ubiquant Scholarship, [Peking University](https://www.pku.edu.cn/).
 - **2022.09 -- now** Ph.D. candidate in Computer Science and Technology, [School of Computer Science](http://cs.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/).
 - **2024.10 -- 2025.03** Intern of [Miracleplus](https://www.miracleplus.com/) & [Shanghai AI Lab](https://www.shlab.org.cn/). Explore RAG Data Synthesis.
@@ -56,14 +56,19 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated 
 4. **Haiyang Shen**<sup>*</sup>, Wendong Xu<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, **Yun Ma**<sup>&#9993;</sup>, Liang Chen<sup>&#9993;</sup>, Kuan Li<sup>&#9993;</sup>. Genesis: Coding Task Synthesis via Iterative Multi-Agent Coordination. **2026**. **NeurIPS Submission**.
 
 5. Zhengwei Tao<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Baixuan Li<sup>*</sup>, Wenbiao Yin, Jialong Wu, Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou, Wentao Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>, Zhiqiang Gao<sup>&#9993;</sup>. Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking. The Fourteenth International Conference on Learning Representations (ICLR). **2026**. **Top Conference on Machine Learning**.
+   - [arXiv](https://arxiv.org/pdf/2510.24697)
+   - [Project/GitHub](https://github.com/Alibaba-NLP/DeepResearch)
 
 6. **Haiyang Shen**<sup>*</sup>, Hang Yan<sup>*</sup>, Zhongshi Xing, Mugeng Liu, Yue Li, Zhiyang Chen, Yuxiang Wang, Jiuzheng Wang, **Yun Ma**<sup>&#9993;</sup>. DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization. Findings of the Association for Computational Linguistics: EACL 2026. **2026**. **Top Conference on NLP**.
    - [Paper](https://aclanthology.org/2026.findings-eacl.56/)
+   - [arXiv](http://arxiv.org/abs/2505.10989)
 
 7. Siqi Zhong, Mugeng Liu, **Haiyang Shen**, Chongyang Pan, **Yun Ma**<sup>&#9993;</sup>. LaTune: Lightweight and Adaptive Configuration Tuning for LLM Inference on Edge Devices. The Web Conference 2026. **2026**. **Top Conference on Web**.
 
 8. **Haiyang Shen**, Yue Li, Desong Meng, Dongqi Cai, Sheng Qi, Li Zhang, Mengwei Xu, **Yun Ma**<sup>&#9993;</sup>. ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents. The Thirteenth International Conference on Learning Representations (ICLR). **2025**. **Top Conference on Machine Learning**.
    - [Paper](https://openreview.net/forum?id=kKILfPkhSz)
+   - [arXiv](https://arxiv.org/abs/2407.00132)
+   - [Project/GitHub](https://github.com/eachsheep/shortcutsbench)
 
 9. Zhiyang Chen, **Yun Ma**<sup>&#9993;</sup>, **Haiyang Shen**, Mugeng Liu. WeInfer: Unleashing the Power of WebGPU on LLM Inference in Web Browsers. Proceedings of the ACM on Web Conference 2025. **2025**. **Top Conference on Web**.
    - [Paper](https://openreview.net/forum?id=Qu2itILaoZ)
@@ -73,6 +78,7 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated 
 
 11. **Haiyang Shen**, **Yun Ma**<sup>&#9993;</sup>, Yue Li, Xiaoling Wang, Deyu Tian, Tong Jia, Tengfei He, Shenghua Luo. ADPal: Automatic Detection of Troubled Users in Online Service Systems via Page Access Logs. 2023 IEEE International Conference on Web Services (ICWS). **2023**. **Top Conference on Service Computing**.
     - [DOI](https://doi.org/10.1109/ICWS60048.2023.00082)
+    - [GitHub](https://github.com/eachsheep/abnormaldetection)
 
 12. Deyu Tian, **Haiyang Shen**, **Yun Ma**<sup>&#9993;</sup>. Parallelizing DNN Inference in Mobile Web Browsers on Heterogeneous Hardware. Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys). **2022**. **Top Conference on Mobile Computing**.
     - [DOI](https://doi.org/10.1145/3498361.3538763)
@@ -100,12 +106,15 @@ My [**research group**](https://cs.pku.edu.cn/info/1025/2713.htm) is affiliated 
 
 20. Tongyi DeepResearch Team, Baixuan Li, Bo Zhang, Dingchu Zhang, ..., **Haiyang Shen**, Xinyu Geng, Yuning Wu, Zijian Li, Yong Jiang<sup>&#9993;</sup>. Tongyi DeepResearch Technical Report. **2025**.
     - [arXiv](https://arxiv.org/abs/2510.24701)
+    - [GitHub](https://github.com/Alibaba-NLP/DeepResearch)
 
 21. Zhengwei Tao<sup>*</sup>, Jialong Wu<sup>*</sup>, Wenbiao Yin<sup>&#9993;</sup>, Junkai Zhang, Baixuan Li, **Haiyang Shen**, Kuan Li, Liwen Zhang, Xinyu Wang, Yong Jiang<sup>&#9993;</sup>, Pengjun Xie, Fei Huang, Jingren Zhou. WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization. **2025**.
     - [arXiv](https://arxiv.org/abs/2507.15061)
+    - [Project/GitHub](https://github.com/Alibaba-NLP/DeepResearch)
 
 22. Taian Guo<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Jinsheng Huang, Zhengyang Mao, Junyu Luo, Binqi Chen, Zhuoru Chen, Xuhui Liu, Bingyu Xia, Luchen Liu<sup>*</sup>, **Yun Ma**<sup>&#9993;</sup>, Ming Zhang<sup>&#9993;</sup>. MASS: Multi-Agent Simulation Scaling for Portfolio Construction. **2025**.
     - [arXiv](https://arxiv.org/abs/2505.10278)
+    - [GitHub](https://github.com/gta0804/MASS)
 
 23. Baixuan Li<sup>*</sup><sup>&#9993;</sup>, Dingchu Zhang<sup>*</sup>, Jialong Wu<sup>*</sup>, Wenbiao Yin<sup>&#9993;</sup>, Zhengwei Tao, Yida Zhao, Liwen Zhang, **Haiyang Shen**, Runnan Fang, Pengjun Xie, Jingren Zhou, Yong Jiang<sup>&#9993;</sup>. ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking. **2025**.
     - [arXiv](https://arxiv.org/abs/2510.24698)
