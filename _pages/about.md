@@ -18,23 +18,15 @@ redirect_from:
 
 # About Me
 
-I am **SHEN Haiyang**, a **Ph.D. candidate** at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
+I am **SHEN Haiyang**, a **Ph.D. candidate** at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
 
-My research trajectory started from **software systems**, then moved toward the intersection of **software and AI**, and has gradually evolved into my current focus on **LLM-based agents**. My long-term vision is to better integrate AI with existing software systems, enabling AI to use tools, interact with applications, and improve real-world software workflows more reliably.
+I work on **LLM agents**, **software engineering**, and **data synthesis for real-world automation**. My current research takes a data-centric view of agent development: the bottleneck is not only model capability, but also how we **discover**, **define**, and **scale** the right tasks from real software systems, user trajectories, and executable environments. Since late 2024, I have focused on **agent data synthesis**, including **graph/search data synthesis** for deep research and agentic retrieval, and **coding agent benchmark/data synthesis** through Monthly-SWEBench, DeepTerminalBench, and EvoCodeBench.
 
-My research centers on **LLM-based agents**. Specifically, I am interested in:
+My long-term vision is to build a fully automated **self-improving loop** for agents: systems that **discover** real problems from software systems and user trajectories, **define** them as measurable tasks, **synthesize** benchmark and training data, run experiments, and use feedback to improve the next generation of agents. Inspired by **autoresearch**, I hope to move this loop toward **fully automated agent self-evolution and continual evolution**.
 
-- **Coding Agents**: developing benchmarks and systems for automated software engineering.
-- **Search & Web Agents**: building intelligent agents for deep information seeking and web interaction.
-- **Financial Agents**: exploring how agents can trade stocks and generate returns in financial markets.
-- **Mathematical Reasoning**: synthesizing high-quality reasoning data for frontier-level mathematical problem solving.
-- **LLM Inference on Edge Devices**: efficient LLM deployment on web and mobile platforms.
+My research group is affiliated with the [Data Space Technology and Systems Research Center](https://cs.pku.edu.cn/info/1025/2713.htm), led by [Academician Hong Mei](https://scholar.google.com/citations?user=b-ZYIwoAAAAJ&hl=en) and [Professor Gang Huang](https://scholar.google.com/citations?hl=en&user=5FxmC14AAAAJ), with faculty members including [Xuanzhe Liu](https://scholar.google.com/citations?hl=en&user=eOhSVi8AAAAJ), [Xin Jin](https://scholar.google.com/citations?hl=en&user=NhsdGBUAAAAJ), and [Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ). The center has long-standing strengths in **machine learning systems**, **software engineering**, **systems**, edge/mobile computing, and AI infrastructure.
 
-My research group is affiliated with the [Data Space Technology and Systems Research Center](https://cs.pku.edu.cn/info/1025/2713.htm), led by [Academician Hong Mei](https://scholar.google.com/citations?user=b-ZYIwoAAAAJ&hl=en) and [Professor Gang Huang](https://scholar.google.com/citations?hl=en&user=5FxmC14AAAAJ), with faculty members including [Xuanzhe Liu](https://scholar.google.com/citations?hl=en&user=eOhSVi8AAAAJ), [Xin Jin](https://scholar.google.com/citations?hl=en&user=NhsdGBUAAAAJ), and [Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
-
-The center is a leading research group in China for *machine learning systems*, *software engineering*, and *systems*. It has deep talent reserves and research foundations in industrial-scale machine learning systems, edge computing, including satellite, mobile, and embodied computing, software engineering, and artificial intelligence.
-
-# Academic and Project Experience {#experience}
+# Research and Engineering Experience {#experience}
 
 - **2025.12 -- now** Intern, [UniPat AI](https://unipat.ai/), a leading agent-data company focused on accelerating AI toward real-world automation. Deeply involved in the development and research of high-quality code benchmarks for [Terminal-X](https://unipat.ai/blog/TerminalX), including [Deep-TerminalBench](https://unipat.ai/blog/TerminalX), [EvoCode-Bench](https://unipat.ai/benchmarks/EvoCode-Bench), [Roadmap-Bench](https://unipat.ai/benchmarks/RoadmapBench), and [Monthly-SWEBench](https://unipat.ai/benchmarks/MonthlySWEBench), as well as broader large-scale high-quality data construction.
 - **2025.06 -- 2025.11** Intern, [Tongyi DeepResearch Group](https://tongyi-agent.github.io/about/), [Tongyi Lab](https://tongyi.aliyun.com/), Alibaba, one of China's top LLM labs. Deeply investigated graph data synthesis for improving agentic retrieval performance in DeepResearch.
@@ -49,7 +41,7 @@ The center is a leading research group in China for *machine learning systems*, 
 
 <sup>*</sup> Co-first author or project leader. <sup>&#9993;</sup> Corresponding author.
 
-## Coding Agents
+## Software-System Agents, Benchmarks, and Data Synthesis
 
 1. **Haiyang Shen**<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Wendong Xu<sup>*</sup>, Yun Ma<sup>&#9993;</sup>, Liang Chen<sup>&#9993;</sup>, Kuan Li<sup>&#9993;</sup>. EvoCodeBench: Evaluating Coding Agents in Multi-Turn Iterative Interactions. **2026**.
    - [arXiv](https://arxiv.org/abs/2605.24110)
@@ -86,40 +78,44 @@ The center is a leading research group in China for *machine learning systems*, 
    - [DOI](https://doi.org/10.1109/ICWS60048.2023.00082)
    - [GitHub](https://github.com/eachsheep/abnormaldetection)
 
-8. Zhuofan Shi, Hubao A, Yufei Shao, Dongliang Huang, Hongxu An, Chunxiao Xin, **Haiyang Shen**, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing. MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics. **2026**.
+8. Wenchun Jing, **Haiyang Shen**, Haoran Wang, Qi Liu, Ningyuan Li, Chaoran Luo, Ning Zhang, Yun Ma. MCP-Focus: Leveraging Function-Oriented Document Enhancement for MCP Server Retrieval. The ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). **2026**.
+   - [GitHub](https://github.com/JingWC/MCP-Focus)
+
+9. Zhuofan Shi, Hubao A, Yufei Shao, Dongliang Huang, Hongxu An, Chunxiao Xin, **Haiyang Shen**, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing. MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics. **2026**.
    - [arXiv](https://arxiv.org/abs/2601.02075)
    - [GitHub](https://github.com/FredericVAN/PKU_MDAgent2)
 
-9. Guoqing Wang, Zeyu Sun, Yizhou Chen, Yifan Zhao, **Haiyang Shen**, Qingyuan Liang, Dan Hao<sup>&#9993;</sup>. Beyond the Sum of Parts: Leveraging Entanglement for Bug Inducing Commit Localization. IEEE Transactions on Software Engineering. **2025**. **Top Journal in Software Engineering**.
+10. Guoqing Wang, Zeyu Sun, Yizhou Chen, Yifan Zhao, **Haiyang Shen**, Qingyuan Liang, Dan Hao<sup>&#9993;</sup>. Beyond the Sum of Parts: Leveraging Entanglement for Bug Inducing Commit Localization. IEEE Transactions on Software Engineering. **2025**. **Top Journal in Software Engineering**.
    - [DOI](https://doi.org/10.1109/TSE.2025.3628362)
 
-## Search & Web Agents
+## Graph/Search Data Synthesis for Deep Research
 
-1. Sixiong Xie<sup>*</sup>, Zhuofan Shi<sup>*</sup>, **Haiyang Shen**<sup>*&#9993;</sup>, Jiuzheng Wang, Siqi Zhong, Chongyang Pan, Mugeng Liu, Peilun Jia, Baoqing Sun, Xiang Jing, **Yun Ma**<sup>&#9993;</sup>. DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation. **2026**.
+1. **Haiyang Shen**<sup>*</sup>, Taian Guo<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Mugeng Liu, Weichen Bi, Wenchun Jing, Sixiong Xie, Zhuofan Shi, Yudong Han, Chongyang Pan, Siqi Zhong, Jinsheng Huang, Ming Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **2026**.
+   - [arXiv](https://arxiv.org/abs/2605.21630)
+   - [GitHub](https://github.com/EachSheep/MindLoom)
+
+2. Sixiong Xie<sup>*</sup>, Zhuofan Shi<sup>*</sup>, **Haiyang Shen**<sup>*&#9993;</sup>, Jiuzheng Wang, Siqi Zhong, Chongyang Pan, Mugeng Liu, Peilun Jia, Baoqing Sun, Xiang Jing, **Yun Ma**<sup>&#9993;</sup>. DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation. **2026**.
    - [arXiv](https://arxiv.org/abs/2605.21482)
    - [Project](https://sixiongxie1001-dot.github.io/deep-research-benchmark2.0/index.html)
 
-2. **Haiyang Shen**<sup>*</sup>, Jiuzheng Wang<sup>*</sup>, Taian Guo, Mugeng Liu, Wenchun Jing, Chongyang Pan, Siqi Zhong, Zhiyang Chen, Weichen Bi, Yudong Han, Xiaoying Bai, **Yun Ma**<sup>&#9993;</sup>. Teaching AI Through Benchmark Construction: QuestBench as a Course-Based Practice for Accountable Knowledge Work. **2026**.
+3. **Haiyang Shen**<sup>*</sup>, Jiuzheng Wang<sup>*</sup>, Taian Guo, Mugeng Liu, Wenchun Jing, Chongyang Pan, Siqi Zhong, Zhiyang Chen, Weichen Bi, Yudong Han, Xiaoying Bai, **Yun Ma**<sup>&#9993;</sup>. Teaching AI Through Benchmark Construction: QuestBench as a Course-Based Practice for Accountable Knowledge Work. **2026**.
    - [arXiv](https://arxiv.org/abs/2605.21413)
    - [Dataset](https://huggingface.co/datasets/PKUAIWeb/QuestBench)
 
-3. Ningyuan Li<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Mugeng Liu, Yudong Han, Zhuofan Shi, Sixiong Xie, **Yun Ma**<sup>&#9993;</sup>. SGR-Bench: Benchmarking Search Agents on State-Gated Retrieval. **2026**.
+4. Ningyuan Li<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Mugeng Liu, Yudong Han, Zhuofan Shi, Sixiong Xie, **Yun Ma**<sup>&#9993;</sup>. SGR-Bench: Benchmarking Search Agents on State-Gated Retrieval. **2026**.
    - [arXiv](https://arxiv.org/abs/2605.22219)
    - [Dataset](https://huggingface.co/datasets/PKUAIWeb/SGR-BENCH)
 
-4. Zhengwei Tao<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Baixuan Li<sup>*</sup>, Wenbiao Yin, Jialong Wu, Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou, Wentao Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>, Zhiqiang Gao<sup>&#9993;</sup>. Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking. The Fourteenth International Conference on Learning Representations (ICLR). **2026**. **Top Conference on Machine Learning**.
+5. Zhengwei Tao<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Baixuan Li<sup>*</sup>, Wenbiao Yin, Jialong Wu, Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou, Wentao Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>, Zhiqiang Gao<sup>&#9993;</sup>. Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking. The Fourteenth International Conference on Learning Representations (ICLR). **2026**. **Top Conference on Machine Learning**.
    - [Paper](https://openreview.net/forum?id=MVFGY1nS6b)
    - [arXiv](https://arxiv.org/abs/2510.24697)
    - [GitHub](https://github.com/Alibaba-NLP/DeepResearch)
    - [Dataset](https://huggingface.co/datasets/Alibaba-NLP/WebComposer)
 
-5. **Haiyang Shen**<sup>*</sup>, Hang Yan<sup>*</sup>, Zhongshi Xing, Mugeng Liu, Yue Li, Zhiyang Chen, Yuxiang Wang, Jiuzheng Wang, **Yun Ma**<sup>&#9993;</sup>. DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization. Findings of the Association for Computational Linguistics: EACL 2026. **2026**. **Top Conference on NLP**.
+6. **Haiyang Shen**<sup>*</sup>, Hang Yan<sup>*</sup>, Zhongshi Xing, Mugeng Liu, Yue Li, Zhiyang Chen, Yuxiang Wang, Jiuzheng Wang, **Yun Ma**<sup>&#9993;</sup>. DRAGON: Domain-specific Robust Automatic Data Generation for RAG Optimization. Findings of the Association for Computational Linguistics: EACL 2026. **2026**. **Top Conference on NLP**.
    - [Paper](https://aclanthology.org/2026.findings-eacl.56/)
    - [arXiv](http://arxiv.org/abs/2505.10989)
    - [GitHub](https://github.com/EachSheep/RAGSynth)
-
-6. Wenchun Jing, **Haiyang Shen**, Haoran Wang, Qi Liu, Ningyuan Li, Chaoran Luo, Ning Zhang, Yun Ma. MCP-Focus: Leveraging Function-Oriented Document Enhancement for MCP Server Retrieval. The ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). **2026**.
-   - [GitHub](https://github.com/JingWC/MCP-Focus)
 
 7. Tongyi DeepResearch Team, Baixuan Li, Bo Zhang, Dingchu Zhang, ..., **Haiyang Shen**, Xinyu Geng, Yuning Wu, Zijian Li, Yong Jiang<sup>&#9993;</sup>. Tongyi DeepResearch Technical Report. **2025**.
    - [arXiv](https://arxiv.org/abs/2510.24701)
@@ -156,12 +152,6 @@ The center is a leading research group in China for *machine learning systems*, 
 3. Taian Guo<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Jinsheng Huang, Zhengyang Mao, Junyu Luo, Binqi Chen, Zhuoru Chen, Luchen Liu, Bingyu Xia, **Yun Ma**<sup>&#9993;</sup>, Ming Zhang<sup>&#9993;</sup>. MASS: Multi-Agent Simulation Scaling for Portfolio Construction. **2025**.
    - [arXiv](https://arxiv.org/abs/2505.10278)
    - [GitHub](https://github.com/gta0804/MASS)
-
-## Mathematical Reasoning
-
-1. **Haiyang Shen**<sup>*</sup>, Taian Guo<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Mugeng Liu, Weichen Bi, Wenchun Jing, Sixiong Xie, Zhuofan Shi, Yudong Han, Chongyang Pan, Siqi Zhong, Jinsheng Huang, Ming Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **2026**.
-   - [arXiv](https://arxiv.org/abs/2605.21630)
-   - [GitHub](https://github.com/EachSheep/MindLoom)
 
 ## LLM Inference on Edge Devices
 
