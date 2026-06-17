@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "SHEN Haiyang"
-  avatar           : "images/haiyang-avatar-512.jpg"
+  avatar           : "images/haiyang-avatar-512.jpg?v=20260617"
   bio              : "Ph.D. candidate\nPeking University"
   location         : "Beijing, China"
   employer         :
