@@ -18,7 +18,7 @@ redirect_from:
 
 # About Me
 
-<p class="job-notice">I am currently actively seeking job opportunities related to LLM agents, software engineering, and real-world automation. Welcome to email me at <a href="mailto:hyshen@stu.pku.edu.cn">hyshen@stu.pku.edu.cn</a> if you are interested.</p>
+<p class="job-notice"><strong>Actively seeking job opportunities</strong> related to LLM agents, software engineering, and real-world automation. Welcome to email me at <a href="mailto:hyshen@stu.pku.edu.cn">hyshen@stu.pku.edu.cn</a> if you are interested.</p>
 
 I am **SHEN Haiyang**, a **Ph.D. candidate** at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
 
