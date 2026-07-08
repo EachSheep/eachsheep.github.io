@@ -20,6 +20,8 @@ redirect_from:
 
 I am **SHEN Haiyang**, a **Ph.D. candidate** at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
 
+I am currently actively seeking job opportunities related to LLM agents, software engineering, and real-world automation.
+
 I work on **LLM agents**, **software engineering**, and **data synthesis for real-world automation**. My current research takes a data-centric view of agent development: the bottleneck is not only model capability, but also how we **discover**, **define**, and **scale** the right tasks from real software systems, user trajectories, and executable environments. Since late 2024, I have focused on **agent data synthesis**, including **graph/search data synthesis** for deep research and agentic retrieval, and **coding agent benchmark/data synthesis** through Monthly-SWEBench, DeepTerminalBench, and EvoCodeBench.
 
 My long-term vision is to build a fully automated **self-improving loop** for agents: systems that **discover** real problems from software systems and user trajectories, **define** them as measurable tasks, **synthesize** benchmark and training data, run experiments, and use feedback to improve the next generation of agents. Inspired by **autoresearch**, I hope to move this loop toward **fully automated agent self-evolution and continual evolution**.
@@ -28,7 +30,7 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
 
 # Research and Engineering Experience {#experience}
 
-- **2025.12 -- now** Intern, [UniPat AI](https://unipat.ai/), a leading agent-data company focused on accelerating AI toward real-world automation. Deeply involved in the development and research of high-quality code benchmarks for [Terminal-X](https://unipat.ai/blog/TerminalX), including [Deep-TerminalBench](https://unipat.ai/blog/TerminalX), [EvoCode-Bench](https://unipat.ai/benchmarks/EvoCode-Bench), [Roadmap-Bench](https://unipat.ai/benchmarks/RoadmapBench), and [Monthly-SWEBench](https://unipat.ai/benchmarks/MonthlySWEBench), as well as broader large-scale high-quality data construction.
+- **2025.12 -- 2026.07** Intern, [UniPat AI](https://unipat.ai/), a leading agent-data company focused on accelerating AI toward real-world automation. Deeply involved in the development and research of high-quality code benchmarks for [Terminal-X](https://unipat.ai/blog/TerminalX), including [Deep-TerminalBench](https://unipat.ai/blog/TerminalX), [EvoCode-Bench](https://unipat.ai/benchmarks/EvoCode-Bench), [Roadmap-Bench](https://unipat.ai/benchmarks/RoadmapBench), and [Monthly-SWEBench](https://unipat.ai/benchmarks/MonthlySWEBench). This work goes beyond human-in-the-loop benchmark construction, extending to fully automated, large-scale high-quality data construction pipelines that have already created substantial economic value.
 - **2025.06 -- 2025.11** Intern, [Tongyi DeepResearch Group](https://tongyi-agent.github.io/about/), [Tongyi Lab](https://tongyi.aliyun.com/), Alibaba, one of China's top LLM labs. Deeply investigated graph data synthesis for improving agentic retrieval performance in DeepResearch.
 - **2022 -- now** PKU Outstanding Research Award and Ubiquant Scholarship, [Peking University](https://www.pku.edu.cn/).
 - **2022.09 -- now** Ph.D. candidate in Computer Science and Technology, [School of Computer Science](http://cs.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/).
