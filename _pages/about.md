@@ -18,9 +18,9 @@ redirect_from:
 
 # About Me
 
-I am **SHEN Haiyang**, a **Ph.D. candidate** at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
+<p class="job-notice">I am currently actively seeking job opportunities related to LLM agents, software engineering, and real-world automation. Welcome to email me at <a href="mailto:hyshen@stu.pku.edu.cn">hyshen@stu.pku.edu.cn</a> if you are interested.</p>
 
-<p class="job-notice">I am currently actively seeking job opportunities related to LLM agents, software engineering, and real-world automation.</p>
+I am **SHEN Haiyang**, a **Ph.D. candidate** at the [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Assistant Professor Yun Ma](https://scholar.google.com/citations?hl=en&user=1hnJ3TgAAAAJ).
 
 I work on **LLM agents**, **software engineering**, and **data synthesis for real-world automation**. My current research takes a data-centric view of agent development: the bottleneck is not only model capability, but also how we **discover**, **define**, and **scale** the right tasks from real software systems, user trajectories, and executable environments. Since late 2024, I have focused on **agent data synthesis**, including **graph/search data synthesis** for deep research and agentic retrieval, and **coding agent benchmark/data synthesis** through Monthly-SWEBench, DeepTerminalBench, and EvoCodeBench.
 
