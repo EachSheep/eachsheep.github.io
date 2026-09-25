@@ -84,6 +84,7 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
    - [GitHub](https://github.com/eachsheep/abnormaldetection)
 
 9. Wenchun Jing, **Haiyang Shen**, Haoran Wang, Qi Liu, Ningyuan Li, Chaoran Luo, Ning Zhang, Yun Ma. MCP-Focus: Leveraging Function-Oriented Document Enhancement for MCP Server Retrieval. The ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). **2026**.
+   - [Paper](https://doi.org/10.1145/3805712.3809582)
    - [GitHub](https://github.com/JingWC/MCP-Focus)
 
 10. Zhuofan Shi, Hubao A, Yufei Shao, Dongliang Huang, Hongxu An, Chunxiao Xin, **Haiyang Shen**, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing. MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics. **2026**.
