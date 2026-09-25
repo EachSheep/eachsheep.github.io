@@ -96,7 +96,7 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
 
 ## Graph/Search Data Synthesis for Deep Research
 
-1. **Haiyang Shen**<sup>*</sup>, Taian Guo<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Mugeng Liu, Weichen Bi, Wenchun Jing, Sixiong Xie, Zhuofan Shi, Yudong Han, Chongyang Pan, Siqi Zhong, Jinsheng Huang, Ming Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **NeurIPS 2026**.
+1. **Haiyang Shen**<sup>*</sup>, Taian Guo<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Mugeng Liu, Sixiong Xie, Zhuofan Shi, Chongyang Pan, Siqi Zhong, Guoqing Wang, Ming Zhang, **Yun Ma**<sup>&#9993;</sup>. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **NeurIPS 2026**.
    - [arXiv](https://arxiv.org/abs/2605.21630)
    - [GitHub](https://github.com/EachSheep/MindLoom)
 
