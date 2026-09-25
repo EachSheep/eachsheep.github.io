@@ -94,11 +94,6 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
 11. Guoqing Wang, Zeyu Sun, Yizhou Chen, Yifan Zhao, **Haiyang Shen**, Qingyuan Liang, Dan Hao<sup>&#9993;</sup>. Beyond the Sum of Parts: Leveraging Entanglement for Bug Inducing Commit Localization. IEEE Transactions on Software Engineering. **2025**. **Top Journal in Software Engineering**.
    - [DOI](https://doi.org/10.1109/TSE.2025.3628362)
 
-## Evaluation Methodology
-
-1. Sixiong Xie<sup>*</sup>, Zhuofan Shi<sup>*</sup>, **Haiyang Shen**<sup>*&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>, Xiang Jing. Top-K Identification with Correlated Biased LLM Judges via Anchor Leverage. **NeurIPS 2026**.
-   - [OpenReview](https://openreview.net/forum?id=owIAxN3QtB)
-
 ## Graph/Search Data Synthesis for Deep Research
 
 1. **Haiyang Shen**<sup>*</sup>, Taian Guo<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Mugeng Liu, Weichen Bi, Wenchun Jing, Sixiong Xie, Zhuofan Shi, Yudong Han, Chongyang Pan, Siqi Zhong, Jinsheng Huang, Ming Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **NeurIPS 2026**.
@@ -198,6 +193,9 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
 
 3. **Haiyang Shen**, **Yun Ma**<sup>&#9993;</sup>. Characterizing the Developer Groups for Metaverse Services in Roblox. 2024 IEEE International Conference on Software Services Engineering (SSE). **2024**.
    - [DOI](https://doi.org/10.1109/SSE62657.2024.00039)
+
+4. Sixiong Xie<sup>*</sup>, Zhuofan Shi<sup>*</sup>, **Haiyang Shen**<sup>*&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>, Xiang Jing. Top-K Identification with Correlated Biased LLM Judges via Anchor Leverage. **NeurIPS 2026**.
+   - [OpenReview](https://openreview.net/forum?id=owIAxN3QtB)
 
 # Correspondence
 
