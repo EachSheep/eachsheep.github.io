@@ -44,7 +44,7 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
 
 ## Software-System Agents, Benchmarks, and Data Synthesis
 
-1. **Haiyang Shen**<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Wendong Xu<sup>*</sup>, Yun Ma<sup>&#9993;</sup>, Liang Chen<sup>&#9993;</sup>, Kuan Li<sup>&#9993;</sup>. EvoCodeBench: Evaluating Coding Agents in Multi-Turn Iterative Interactions. **2026**.
+1. **Haiyang Shen**<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Wendong Xu<sup>*</sup>, Yun Ma<sup>&#9993;</sup>, Liang Chen<sup>&#9993;</sup>, Kuan Li<sup>&#9993;</sup>. EvoCodeBench: Evaluating Coding Agents in Multi-Turn Iterative Interactions. **NeurIPS 2026**.
    - [arXiv](https://arxiv.org/abs/2605.24110)
    - [Benchmark](https://unipat.ai/benchmarks/EvoCode-Bench)
    - [Blog](https://unipat.ai/blog/TerminalX)
@@ -56,7 +56,7 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
    - [GitHub](https://github.com/UniPat-AI/Terminal-X)
    - [Dataset](https://github.com/UniPat-AI/Terminal-X/tree/main/data/DeepTerminalBench)
 
-3. Xinbo Xu, Ruihan Yang, **Haiyang Shen**, Wendong Xu, Bofei Gao, Ruoyu Wu, Kean Shi, Weichu Xie, Xuanzhong Chen, Ming Wu, Jason Zeng, Michael Heinrich, Liang Chen, Kuan Li, Baobao Chang. RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades. **2026**.
+3. Xinbo Xu, Ruihan Yang, **Haiyang Shen**, Wendong Xu, Bofei Gao, Ruoyu Wu, Kean Shi, Weichu Xie, Xuanzhong Chen, Ming Wu, Jason Zeng, Michael Heinrich, Liang Chen, Kuan Li, Baobao Chang. RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades. **NeurIPS 2026**.
    - [arXiv](https://arxiv.org/abs/2605.15846)
    - [Benchmark](https://unipat.ai/benchmarks/RoadmapBench)
    - [Blog](https://unipat.ai/blog/TerminalX)
@@ -67,31 +67,40 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
    - [Live Benchmark](https://unipat.ai/benchmarks/MonthlySWEBench)
    - [Dataset](https://huggingface.co/collections/UnipatAI/monthly-swebench)
 
-5. **Haiyang Shen**, Yue Li, Desong Meng, Dongqi Cai, Sheng Qi, Li Zhang, Mengwei Xu, **Yun Ma**<sup>&#9993;</sup>. ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents. The Thirteenth International Conference on Learning Representations (ICLR). **2025**. **Top Conference on Machine Learning**.
+5. Siqi Zhong, **Haiyang Shen**, Mugeng Liu, Chongyang Pan, **Yun Ma**<sup>&#9993;</sup>. EnvFaultBench: Benchmarking LLM Agents on Software Environment-Fault Troubleshooting. **NeurIPS 2026**, Evaluations and Datasets Track.
+   - [OpenReview](https://openreview.net/forum?id=1tS0rcwXBg)
+   - [Dataset](https://huggingface.co/datasets/envfaultbench/EnvFaultBench)
+
+6. **Haiyang Shen**, Yue Li, Desong Meng, Dongqi Cai, Sheng Qi, Li Zhang, Mengwei Xu, **Yun Ma**<sup>&#9993;</sup>. ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents. The Thirteenth International Conference on Learning Representations (ICLR). **2025**. **Top Conference on Machine Learning**.
    - [Paper](https://openreview.net/forum?id=kKILfPkhSz)
    - [arXiv](https://arxiv.org/abs/2407.00132)
    - [Project/GitHub](https://github.com/eachsheep/shortcutsbench)
 
-6. **Haiyang Shen**, Yue Li, Zhiyang Chen, **Yun Ma**<sup>&#9993;</sup>. EasIPA: Enhancing LLM's Ability to Select APIs for IPA. International Conference on Service Science. **2025**.
+7. **Haiyang Shen**, Yue Li, Zhiyang Chen, **Yun Ma**<sup>&#9993;</sup>. EasIPA: Enhancing LLM's Ability to Select APIs for IPA. International Conference on Service Science. **2025**.
    - [Paper](https://doi.org/10.1007/978-981-95-1581-3_3)
 
-7. **Haiyang Shen**, **Yun Ma**<sup>&#9993;</sup>, Yue Li, Xiaoling Wang, Deyu Tian, Tong Jia, Tengfei He, Shenghua Luo. ADPal: Automatic Detection of Troubled Users in Online Service Systems via Page Access Logs. 2023 IEEE International Conference on Web Services (ICWS). **2023**. **Top Conference on Service Computing**.
+8. **Haiyang Shen**, **Yun Ma**<sup>&#9993;</sup>, Yue Li, Xiaoling Wang, Deyu Tian, Tong Jia, Tengfei He, Shenghua Luo. ADPal: Automatic Detection of Troubled Users in Online Service Systems via Page Access Logs. 2023 IEEE International Conference on Web Services (ICWS). **2023**. **Top Conference on Service Computing**.
    - [DOI](https://doi.org/10.1109/ICWS60048.2023.00082)
    - [GitHub](https://github.com/eachsheep/abnormaldetection)
 
-8. Wenchun Jing, **Haiyang Shen**, Haoran Wang, Qi Liu, Ningyuan Li, Chaoran Luo, Ning Zhang, Yun Ma. MCP-Focus: Leveraging Function-Oriented Document Enhancement for MCP Server Retrieval. The ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). **2026**.
+9. Wenchun Jing, **Haiyang Shen**, Haoran Wang, Qi Liu, Ningyuan Li, Chaoran Luo, Ning Zhang, Yun Ma. MCP-Focus: Leveraging Function-Oriented Document Enhancement for MCP Server Retrieval. The ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). **2026**.
    - [GitHub](https://github.com/JingWC/MCP-Focus)
 
-9. Zhuofan Shi, Hubao A, Yufei Shao, Dongliang Huang, Hongxu An, Chunxiao Xin, **Haiyang Shen**, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing. MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics. **2026**.
+10. Zhuofan Shi, Hubao A, Yufei Shao, Dongliang Huang, Hongxu An, Chunxiao Xin, **Haiyang Shen**, Zhenyu Wang, Yunshan Na, Gang Huang, Xiang Jing. MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics. **2026**.
    - [arXiv](https://arxiv.org/abs/2601.02075)
    - [GitHub](https://github.com/FredericVAN/PKU_MDAgent2)
 
-10. Guoqing Wang, Zeyu Sun, Yizhou Chen, Yifan Zhao, **Haiyang Shen**, Qingyuan Liang, Dan Hao<sup>&#9993;</sup>. Beyond the Sum of Parts: Leveraging Entanglement for Bug Inducing Commit Localization. IEEE Transactions on Software Engineering. **2025**. **Top Journal in Software Engineering**.
+11. Guoqing Wang, Zeyu Sun, Yizhou Chen, Yifan Zhao, **Haiyang Shen**, Qingyuan Liang, Dan Hao<sup>&#9993;</sup>. Beyond the Sum of Parts: Leveraging Entanglement for Bug Inducing Commit Localization. IEEE Transactions on Software Engineering. **2025**. **Top Journal in Software Engineering**.
    - [DOI](https://doi.org/10.1109/TSE.2025.3628362)
+
+## Evaluation Methodology
+
+1. Sixiong Xie<sup>*</sup>, Zhuofan Shi<sup>*</sup>, **Haiyang Shen**<sup>*&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>, Xiang Jing. Top-K Identification with Correlated Biased LLM Judges via Anchor Leverage. **NeurIPS 2026**.
+   - [OpenReview](https://openreview.net/forum?id=owIAxN3QtB)
 
 ## Graph/Search Data Synthesis for Deep Research
 
-1. **Haiyang Shen**<sup>*</sup>, Taian Guo<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Mugeng Liu, Weichen Bi, Wenchun Jing, Sixiong Xie, Zhuofan Shi, Yudong Han, Chongyang Pan, Siqi Zhong, Jinsheng Huang, Ming Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **2026**.
+1. **Haiyang Shen**<sup>*</sup>, Taian Guo<sup>*</sup>, Xuanzhong Chen<sup>*</sup>, Mugeng Liu, Weichen Bi, Wenchun Jing, Sixiong Xie, Zhuofan Shi, Yudong Han, Chongyang Pan, Siqi Zhong, Jinsheng Huang, Ming Zhang<sup>&#9993;</sup>, **Yun Ma**<sup>&#9993;</sup>. MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis. **NeurIPS 2026**.
    - [arXiv](https://arxiv.org/abs/2605.21630)
    - [GitHub](https://github.com/EachSheep/MindLoom)
 
@@ -146,7 +155,7 @@ My research group is affiliated with the [Data Space Technology and Systems Rese
    - [arXiv](https://arxiv.org/abs/2602.11918)
    - [GitHub](https://github.com/gta0804/MEME)
 
-2. Taian Guo<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Junyu Luo, Binqi Chen, Hongjun Ding, Jinsheng Huang, Luchen Liu, **Yun Ma**<sup>&#9993;</sup>, Ming Zhang<sup>&#9993;</sup>. AlphaPROBE: Alpha Mining via Principled Retrieval and On-graph Biased Evolution. **2026**.
+2. Taian Guo<sup>*</sup>, **Haiyang Shen**<sup>*</sup>, Junyu Luo, Binqi Chen, Hongjun Ding, Jinsheng Huang, Luchen Liu, **Yun Ma**<sup>&#9993;</sup>, Ming Zhang<sup>&#9993;</sup>. AlphaPROBE: Alpha Mining via Principled Retrieval and On-graph Biased Evolution. **NeurIPS 2026**.
    - [arXiv](https://arxiv.org/abs/2602.11917)
    - [GitHub](https://github.com/gta0804/AlphaPROBE)
 
